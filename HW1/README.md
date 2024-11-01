@@ -1,7 +1,7 @@
 # HW 1
 
 ## Intro
-請詳閱 [hw1_intro](./hw1_Intro.pdf)
+請詳閱 [hw1_Intro](./hw1_Intro.pdf)
 
 ## Environment
 
