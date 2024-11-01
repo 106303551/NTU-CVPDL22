@@ -13,7 +13,7 @@ https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~v
 EX:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x64
 ```
 
-### install
+### Install
 
 ```shell
 # If you have conda, we recommend you to build a conda environment called "cvpdl-hw3"
@@ -49,6 +49,8 @@ bash hw3_inference.sh
 
 <div align="center">
     <a href="./">
-        <img src="./images/result.png" width="50%"/>
+        <img src="./images/source_validation_result.png" width="50%"/>
+        <img src="./images/target_validation_result.png" width="50%"/>
+        <img src="./images/DA_target_validation_result.png" width="50%"/>
     </a>
 </div>
