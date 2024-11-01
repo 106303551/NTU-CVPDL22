@@ -1,7 +1,7 @@
 # HW 3
 
 ## Intro
-請詳閱 [hw3_intro](./hw3_intro.pdf)
+請詳閱 [hw3_intro](./hw3_Intro.pdf)
 
 ## Environment
 
