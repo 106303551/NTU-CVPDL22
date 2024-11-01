@@ -1,5 +1,8 @@
 # HW 1
 
+## Intro
+請詳閱 [hw1_intro](./hw1_intro.pdf)
+
 ## Environment
 
 ```shell
@@ -50,3 +53,8 @@ bash hw1.sh
         <img src="./images/result.png" width="50%"/>
     </a>
 </div>
+
+## Reference
+
+- [DETR-resnet50](https://huggingface.co/facebook/detr-resnet-50)
+- [YOLOv7](https://github.com/WongKinYiu/yolov7)
