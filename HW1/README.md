@@ -47,6 +47,6 @@ bash hw1.sh
 
 <div align="center">
     <a href="./">
-        <img src="./images/result.png" width="79%"/>
+        <img src="./images/result.png" width="50%"/>
     </a>
 </div>
