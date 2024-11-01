@@ -45,7 +45,7 @@ bash hw3_train.sh "O2net/data/train_dir/" "O2net/data/val_dir/" "best_model.pth"
 ### Test
 
 ```shell
-bash hw3_inference.sh
+bash hw3_inference.sh "./input/test_dir/" "./output/pred.json" 3
 ```
 
 ## Result
@@ -61,3 +61,4 @@ bash hw3_inference.sh
 ## Reference
 
 - [O2net](https://github.com/BIT-DA/O2net)
+- [YOLOv7](https://github.com/WongKinYiu/yolov7)
