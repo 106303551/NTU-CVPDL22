@@ -1,0 +1,1 @@
+python3 ./yolov7/detect.py --weights model.pt --conf 0.1 --source $1 --save-txt --save-conf --nosave --output_dir $2 --no-trace

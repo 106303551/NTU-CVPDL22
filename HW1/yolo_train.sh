@@ -1,4 +1,3 @@
-git clone https://github.com/SkalskiP/yolov7.git
 python3 yolov7_train_preprocess.py --input_path $1 --valid_path $2
 cd yolov7
 git checkout fix/problems_associated_with_the_latest_versions_of_pytorch_and_numpy
