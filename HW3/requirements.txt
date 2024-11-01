@@ -1,0 +1,8 @@
+pycocotools
+tqdm
+cython
+scipy
+kornia
+opencv-python
+# torchvision==0.14.1
+# mmcv==2.0.0 -f https://download.openmmlab.com/mmcv/dist/cu117/torch1.13/index.html
