@@ -5,3 +5,4 @@
 - HW1: **Object Detection with CNN-based and Transformer-based model**
 - HW2:**Practical Issue - Faster Convolution,Model Pruning, Convolution Methods**
 - HW3:**Unsupervised Domain Adaptation for Object Detection**
+- Final:**Seamless Style Transfer in Videos: Enhancing Clarity and Consistency with Stable Diffusion, EBSynth, and ImageBind**
