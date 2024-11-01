@@ -1,5 +1,8 @@
 # HW 3
 
+## Intro
+請詳閱 [hw3_intro](./hw3_intro.pdf)
+
 ## Environment
 
 ### MSVC
@@ -54,3 +57,7 @@ bash hw3_inference.sh
         <img src="./images/DA_target_validation_result.png" width="50%"/>
     </a>
 </div>
+
+## Reference
+
+- [O2net](https://github.com/BIT-DA/O2net)
