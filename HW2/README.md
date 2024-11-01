@@ -3,4 +3,4 @@
 ## Intro
 請詳閱 [hw2_Intro](./hw2_Intro.pdf)
 ## Result
-請詳閱 [hw2_Result](./hw2_Result.pdf)
+請詳閱 [hw2_Report](./hw2_Report.pdf)
