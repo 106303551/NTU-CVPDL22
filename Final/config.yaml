@@ -1,0 +1,8 @@
+VIDEO_PATH: ./sample/sample.mp4
+VIDEO_FRAME_DIR: ./frame/
+STABLE_DIFFUSION:
+  URL: "http://127.0.0.1:7860"
+  PROMPT: "highres, hdr, (masterpiece:1.2), (best quality:1.2),1girl,solo,"
+  N_PROMPT: "(2girls:1.2),(bad_prompt_version2:0.7), easynegative, lowres, bad anatomy, bad hands, bad-hands-5, text, error, mutilated hands, missing fingers, extra fingers, extra arms, deformed, cropped, (low quality, worst quality:1.4),jpeg artifacts, signature, watermark, username, blurry, monochrome,"
+  OUTPUT_DIR: ./output/
+REMOVE_BG: false
