@@ -44,4 +44,9 @@ bash hw1.sh
 ```
 
 ## Result
-![Result](https://github.com/106303551/NTU-CVPDL22/tree/main/HW1/images/result.png)
+
+<div align="center">
+    <a href="./">
+        <img src="./images/result.png" width="79%"/>
+    </a>
+</div>
